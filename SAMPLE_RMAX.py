@@ -9,7 +9,7 @@ Sci Data 7, 40 (2020). https://doi.org/10.1038/s41597-020-0381-2
 
 This is the STORM module for the calculation of radius to maximum winds
 
-Copyright (C) 2020 Nadia Bloemendaal. All versions released under the [] license.
+Copyright (C) 2020 Nadia Bloemendaal. All versions released under the GNU General Public License v3.0.
 """
 
 import numpy as np
