@@ -1,6 +1,8 @@
 # STORM
 This is the STORM (Synthetic Tropical cyclOne geneRation Model) Model. For details, see https://doi.org/10.1038/s41597-020-0381-2
 
+**IMPORTANT: Please be aware that these scripts are not maintained and NO support is provided!!**
+
 These python programs are all modules:
 1. SELECT_BASIN.py <--- generates the basin boundaries, no of cyclones, month of occurrence
 2. SAMPLE_STARTING_POINT.py <--- generates the genesis locations
