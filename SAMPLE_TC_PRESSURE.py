@@ -73,17 +73,17 @@ def TC_Category(V):
     cat : category (0-5, 0=Tropical Storm).
 
     """
-    if V>=18. and V<33.:
+    if V>=15.8 and V<29.:
         cat=0
-    elif V>=33. and V<43.:
+    elif V>=29. and V<37.6:
         cat=1
-    elif V>=43. and V<50.:
+    elif V>=37.6 and V<43.4:
         cat=2
-    elif V>=50 and V<58.:
+    elif V>=43.4 and V<51.1:
         cat=3
-    elif V>=58. and V<70.:
+    elif V>=51.1 and V<61.6:
         cat=4
-    elif V>=70.:
+    elif V>=61.6:
         cat=5
     
     else:
